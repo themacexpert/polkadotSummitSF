@@ -1,4 +1,4 @@
-# polkadotSummitSF
+# Remote EVM Calls via XCM!
 
 Prerequisites:
 - [Faucet for Moonbase Alpha DEV Funds](https://apps.moonbeam.network/moonbase-alpha/faucet/)

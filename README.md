@@ -23,3 +23,7 @@ ts-node calculateMultilocationDerivative.ts \
 --n 0x57657374656e64
 
 Fund your derived address with 0.5 DEV or so. 
+
+Copy the contents of [SimpleStorage.sol](https://github.com/themacexpert/polkadotSummitSF/blob/main/SimpleStorage.sol) into Remix. Compile and deploy this contract to Moonbase Alpha. 
+
+After deployment, make a note of the contract address and the CallData. 

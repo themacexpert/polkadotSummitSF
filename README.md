@@ -1,5 +1,7 @@
 # Remote EVM Calls via XCM!
 
+### For a full guide on the workshop demo check out the [Moonbeam Docs site tutorial on Remote EVM Calls](https://docs.moonbeam.network/builders/xcm/remote-evm-calls/)! 
+
 Prerequisites:
 - [Faucet for Moonbase Alpha DEV Funds](https://apps.moonbeam.network/moonbase-alpha/faucet/)
 - [Add the Moonbase Alpha Network to MetaMask](https://docs.moonbeam.network/)
